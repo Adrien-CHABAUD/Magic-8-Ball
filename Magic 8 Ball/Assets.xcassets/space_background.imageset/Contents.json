@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "ball1.png",
+      "filename" : "space_background.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "ball1@2x.png",
+      "filename" : "space_background@2x.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "ball1@3x.png",
+      "filename" : "space_background@3x.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
