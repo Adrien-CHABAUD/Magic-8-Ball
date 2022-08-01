@@ -4,9 +4,7 @@
   Author: Adrien CHABAUD
  -->
  
-# Slot Machine ![iOS Badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Swift Badge](https://img.shields.io/badge/Swift%20Version-5-orange) 
-
-# Magic 8 Ball
+# Magic 8 Ball ![iOS Badge](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![Swift Badge](https://img.shields.io/badge/Swift%20Version-5-orange) 
 
 This app has been made as part of the **iOS & Swift - The Complete iOS App Development Bootcamp** on Udemy from **The App Brewery**
 
